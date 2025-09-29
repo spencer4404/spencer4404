@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Spencer!
-- 👀 I’m interested in self-driving technology, golf simulator technology, data sciences, and software development
+- 👀 I’m interested in data science and analytics, self-driving technology, and golf simulator technology
 - 🌱 I’m currently an undergraduate Computer Engineering student at UMass Amherst focusing on developing my programming skills
-- ✍️ I currently have a summer internship at Pfizer!
+- ✍️ I'm currently looking for a job following my gradutation in 2026
 - 📫 If you need to reach me, feel free to contact me at siannantuono@umass.edu
 - 🌍 When I'm not working hard at school, I love to golf and snowboard!
 
